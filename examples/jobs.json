@@ -1,0 +1,16 @@
+[
+  {
+    "company": "Example Mobility",
+    "role": "Senior React Native Developer",
+    "location": "Noida / Remote India",
+    "url": "https://example.com/rn1",
+    "description": "6+ years React Native TypeScript JavaScript Redux React Navigation Reanimated Jest Android iOS Firebase CI/CD performance optimization. 22-30 LPA."
+  },
+  {
+    "company": "Example Fintech",
+    "role": "React Native Lead",
+    "location": "Bengaluru",
+    "url": "https://example.com/rn2",
+    "description": "7+ years React Native TypeScript architecture native modules testing CI/CD performance. 25 LPA."
+  }
+]

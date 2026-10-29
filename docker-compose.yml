@@ -1,0 +1,10 @@
+services:
+  rnjob:
+    build: .
+    command: uvicorn rnjob.web:app --host 127.0.0.1 --port 8000
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - .:/app
+    env_file:
+      - .env
